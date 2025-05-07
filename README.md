@@ -4,6 +4,9 @@
 
 I created a dashboard to analyze sales data from a fictional retail store called superstore.The goal was to understand which products, regions,and customer types brings in the most sales and how sales change overtime, and gain deeper understanding of the store's performance.
 
+![image alt](https://github.com/Esangbedo-Oseremen/Superstore-Sales-Dashboard/blob/d4781ced2e5e2b52c4eafc895f315ccb291b4dca/Superstore%20Dasboard.png)
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analyasis is the "superstore_dataset.csv", it includes customer orders with details like order date, sales amount, shipping information, product category, and customer location.
