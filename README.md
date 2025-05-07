@@ -9,7 +9,7 @@ I created a dashboard to analyze sales data from a fictional retail store called
 
 ### Data Sources
 
-Sales Data: The primary dataset used for this analyasis is the "superstore_dataset.csv", it includes customer orders with details like order date, sales amount, shipping information, product category, and customer location.
+Superstore Data: The primary dataset used for this analyasis is the "superstore_dataset.csv", it includes customer orders with details like order date, sales amount, shipping information, product category, and customer location.
 
 ### Tools
 
